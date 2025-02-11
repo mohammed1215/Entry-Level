@@ -3,8 +3,8 @@ Entry level for backend node js
 
 
 ## project notes
-**this is bold text**
-_this text is italic_
+**this is bold text**\
+_this text is italic_\
 ~~this was mistaken text~~
 
 # 🏫 Faculty Lecture Schedule - Mansoura University
